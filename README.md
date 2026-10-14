@@ -358,6 +358,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://probe.dev/favicon.ico" height="14"/> [Probe.dev](https://mcp.probe.dev) - Professional media analysis and validation MCP server with FFprobe, MediaInfo, and comprehensive reporting capabilities
 - <img src="https://cdn.simpleicons.org/apple/7ED957" height="14"/> [OpenNutrition](https://github.com/deadletterq/mcp-opennutrition) - Search 300,000+ foods, nutrition facts, and barcodes from the OpenNutrition database
 - <img src="https://congressmcp.lawgiver.ai/favicon.svg" height="14"/> [Congress](https://github.com/amurshak/congressMCP) - Query and reeason about legislative data from Congress.gov
+- <img src="https://mcp.pho.chat/icon.png" height="14"/> [Phở Research Tools](https://github.com/thaohienhomes/pho-research-tools)<sup><sup>⭐</sup></sup> - Check AI-written references against Crossref, PubMed and OpenAlex, flag retractions, format citations and draw PRISMA 2020 diagrams. Hosted at `https://mcp.pho.chat/mcp`
 
 <br />
 
